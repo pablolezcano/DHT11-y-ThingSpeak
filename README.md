@@ -19,5 +19,7 @@ En esta parte del proyecto voy a registrar datos obtenidos del sensor DHT11 y su
 El trabajo terminado esta en [ESTE LINK](https://eestn1-proyecto.000webhostapp.com/)
 
 
+![alt text](https://github.com/pablolezcano/DHT11-y-ThingSpeak/blob/master/imagenes/grafico%20thingspeak.jpeg)
+
 
 
